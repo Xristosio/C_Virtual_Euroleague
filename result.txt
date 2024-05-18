@@ -1,0 +1,449 @@
+========== VIRTUAL EUROLEAGUE 2019-2020 ==========
+
+========== FHASE 1 ==========
+
+FHASE 1 MARKING:
+
+POS. P. TEAM.
+1.   47 Cska
+2.   47 Maccabi
+3.   47 Panathinaikos
+4.   46 Crvena
+5.   46 Fenerbahce
+6.   46 Kirolbet_Baskonia_Vitoria_Gasteiz
+7.   45 Anadolu_Efes
+8.   45 Barcelona_Lassa
+9.   45 Khimki
+10.   45 Valencia
+11.   44 Bayern
+12.   44 Olympiacos
+13.   44 Zalgiris_Kaunas
+14.   43 Alba
+15.   42 Armani_Exchange_Olimpia
+16.   42 Real_Madrid
+17.   39 Zenit
+18.   37 Asvel_Villeurbanne
+
+
+FHASE 1 RESULTS:
+
+Cska - Maccabi : 68 - 74
+Cska - Panathinaikos : 57 - 78
+Cska - Crvena : 63 - 60
+Cska - Fenerbahce : 53 - 50
+Cska - Kirolbet_Baskonia_Vitoria_Gasteiz : 77 - 69
+Cska - Anadolu_Efes : 59 - 93
+Cska - Barcelona_Lassa : 73 - 58
+Cska - Khimki : 82 - 78
+Cska - Valencia : 82 - 56
+Cska - Bayern : 59 - 71
+Cska - Olympiacos : 85 - 84
+Cska - Zalgiris_Kaunas : 56 - 57
+Cska - Alba : 59 - 71
+Cska - Armani_Exchange_Olimpia : 54 - 83
+Cska - Real_Madrid : 67 - 85
+Cska - Zenit : 77 - 74
+Cska - Asvel_Villeurbanne : 79 - 76
+
+Maccabi - Cska : 65 - 80
+Maccabi - Panathinaikos : 80 - 60
+Maccabi - Crvena : 102 - 85
+Maccabi - Fenerbahce : 71 - 82
+Maccabi - Kirolbet_Baskonia_Vitoria_Gasteiz : 85 - 75
+Maccabi - Anadolu_Efes : 96 - 64
+Maccabi - Barcelona_Lassa : 86 - 63
+Maccabi - Khimki : 76 - 81
+Maccabi - Valencia : 101 - 74
+Maccabi - Bayern : 93 - 75
+Maccabi - Olympiacos : 99 - 89
+Maccabi - Zalgiris_Kaunas : 64 - 59
+Maccabi - Alba : 60 - 73
+Maccabi - Armani_Exchange_Olimpia : 93 - 74
+Maccabi - Real_Madrid : 90 - 55
+Maccabi - Zenit : 61 - 73
+Maccabi - Asvel_Villeurbanne : 56 - 63
+
+Panathinaikos - Cska : 54 - 52
+Panathinaikos - Maccabi : 81 - 65
+Panathinaikos - Crvena : 89 - 73
+Panathinaikos - Fenerbahce : 73 - 62
+Panathinaikos - Kirolbet_Baskonia_Vitoria_Gasteiz : 64 - 71
+Panathinaikos - Anadolu_Efes : 74 - 53
+Panathinaikos - Barcelona_Lassa : 77 - 64
+Panathinaikos - Khimki : 58 - 84
+Panathinaikos - Valencia : 87 - 88
+Panathinaikos - Bayern : 69 - 61
+Panathinaikos - Olympiacos : 77 - 86
+Panathinaikos - Zalgiris_Kaunas : 62 - 74
+Panathinaikos - Alba : 84 - 93
+Panathinaikos - Armani_Exchange_Olimpia : 55 - 75
+Panathinaikos - Real_Madrid : 88 - 78
+Panathinaikos - Zenit : 58 - 82
+Panathinaikos - Asvel_Villeurbanne : 58 - 64
+
+Crvena - Cska : 69 - 54
+Crvena - Maccabi : 58 - 70
+Crvena - Panathinaikos : 64 - 69
+Crvena - Fenerbahce : 59 - 51
+Crvena - Kirolbet_Baskonia_Vitoria_Gasteiz : 53 - 61
+Crvena - Anadolu_Efes : 55 - 59
+Crvena - Barcelona_Lassa : 55 - 75
+Crvena - Khimki : 67 - 73
+Crvena - Valencia : 52 - 69
+Crvena - Bayern : 53 - 70
+Crvena - Olympiacos : 66 - 64
+Crvena - Zalgiris_Kaunas : 59 - 77
+Crvena - Alba : 80 - 87
+Crvena - Armani_Exchange_Olimpia : 56 - 64
+Crvena - Real_Madrid : 54 - 68
+Crvena - Zenit : 62 - 74
+Crvena - Asvel_Villeurbanne : 58 - 72
+
+Fenerbahce - Cska : 63 - 65
+Fenerbahce - Maccabi : 70 - 81
+Fenerbahce - Panathinaikos : 85 - 60
+Fenerbahce - Crvena : 58 - 71
+Fenerbahce - Kirolbet_Baskonia_Vitoria_Gasteiz : 83 - 68
+Fenerbahce - Anadolu_Efes : 77 - 70
+Fenerbahce - Barcelona_Lassa : 71 - 66
+Fenerbahce - Khimki : 78 - 68
+Fenerbahce - Valencia : 82 - 71
+Fenerbahce - Bayern : 82 - 50
+Fenerbahce - Olympiacos : 84 - 61
+Fenerbahce - Zalgiris_Kaunas : 62 - 55
+Fenerbahce - Alba : 90 - 66
+Fenerbahce - Armani_Exchange_Olimpia : 84 - 57
+Fenerbahce - Real_Madrid : 55 - 60
+Fenerbahce - Zenit : 79 - 86
+Fenerbahce - Asvel_Villeurbanne : 86 - 52
+
+Kirolbet_Baskonia_Vitoria_Gasteiz - Cska : 94 - 82
+Kirolbet_Baskonia_Vitoria_Gasteiz - Maccabi : 62 - 69
+Kirolbet_Baskonia_Vitoria_Gasteiz - Panathinaikos : 85 - 72
+Kirolbet_Baskonia_Vitoria_Gasteiz - Crvena : 81 - 50
+Kirolbet_Baskonia_Vitoria_Gasteiz - Fenerbahce : 56 - 60
+Kirolbet_Baskonia_Vitoria_Gasteiz - Anadolu_Efes : 86 - 51
+Kirolbet_Baskonia_Vitoria_Gasteiz - Barcelona_Lassa : 62 - 81
+Kirolbet_Baskonia_Vitoria_Gasteiz - Khimki : 86 - 85
+Kirolbet_Baskonia_Vitoria_Gasteiz - Valencia : 84 - 71
+Kirolbet_Baskonia_Vitoria_Gasteiz - Bayern : 78 - 73
+Kirolbet_Baskonia_Vitoria_Gasteiz - Olympiacos : 67 - 64
+Kirolbet_Baskonia_Vitoria_Gasteiz - Zalgiris_Kaunas : 92 - 80
+Kirolbet_Baskonia_Vitoria_Gasteiz - Alba : 58 - 52
+Kirolbet_Baskonia_Vitoria_Gasteiz - Armani_Exchange_Olimpia : 77 - 92
+Kirolbet_Baskonia_Vitoria_Gasteiz - Real_Madrid : 88 - 53
+Kirolbet_Baskonia_Vitoria_Gasteiz - Zenit : 80 - 58
+Kirolbet_Baskonia_Vitoria_Gasteiz - Asvel_Villeurbanne : 71 - 52
+
+Anadolu_Efes - Cska : 71 - 81
+Anadolu_Efes - Maccabi : 56 - 67
+Anadolu_Efes - Panathinaikos : 56 - 59
+Anadolu_Efes - Crvena : 72 - 58
+Anadolu_Efes - Fenerbahce : 96 - 55
+Anadolu_Efes - Kirolbet_Baskonia_Vitoria_Gasteiz : 97 - 58
+Anadolu_Efes - Barcelona_Lassa : 85 - 64
+Anadolu_Efes - Khimki : 57 - 51
+Anadolu_Efes - Valencia : 57 - 51
+Anadolu_Efes - Bayern : 83 - 67
+Anadolu_Efes - Olympiacos : 62 - 64
+Anadolu_Efes - Zalgiris_Kaunas : 54 - 71
+Anadolu_Efes - Alba : 92 - 60
+Anadolu_Efes - Armani_Exchange_Olimpia : 63 - 82
+Anadolu_Efes - Real_Madrid : 66 - 57
+Anadolu_Efes - Zenit : 82 - 59
+Anadolu_Efes - Asvel_Villeurbanne : 89 - 61
+
+Barcelona_Lassa - Cska : 81 - 64
+Barcelona_Lassa - Maccabi : 75 - 61
+Barcelona_Lassa - Panathinaikos : 67 - 60
+Barcelona_Lassa - Crvena : 64 - 61
+Barcelona_Lassa - Fenerbahce : 68 - 82
+Barcelona_Lassa - Kirolbet_Baskonia_Vitoria_Gasteiz : 81 - 80
+Barcelona_Lassa - Anadolu_Efes : 50 - 80
+Barcelona_Lassa - Khimki : 60 - 51
+Barcelona_Lassa - Valencia : 68 - 53
+Barcelona_Lassa - Bayern : 66 - 79
+Barcelona_Lassa - Olympiacos : 57 - 53
+Barcelona_Lassa - Zalgiris_Kaunas : 72 - 83
+Barcelona_Lassa - Alba : 54 - 73
+Barcelona_Lassa - Armani_Exchange_Olimpia : 60 - 87
+Barcelona_Lassa - Real_Madrid : 66 - 85
+Barcelona_Lassa - Zenit : 81 - 62
+Barcelona_Lassa - Asvel_Villeurbanne : 79 - 56
+
+Khimki - Cska : 91 - 62
+Khimki - Maccabi : 55 - 71
+Khimki - Panathinaikos : 79 - 52
+Khimki - Crvena : 67 - 57
+Khimki - Fenerbahce : 62 - 58
+Khimki - Kirolbet_Baskonia_Vitoria_Gasteiz : 59 - 80
+Khimki - Anadolu_Efes : 75 - 73
+Khimki - Barcelona_Lassa : 83 - 61
+Khimki - Valencia : 60 - 57
+Khimki - Bayern : 80 - 70
+Khimki - Olympiacos : 81 - 87
+Khimki - Zalgiris_Kaunas : 79 - 76
+Khimki - Alba : 55 - 85
+Khimki - Armani_Exchange_Olimpia : 58 - 52
+Khimki - Real_Madrid : 87 - 84
+Khimki - Zenit : 62 - 70
+Khimki - Asvel_Villeurbanne : 75 - 67
+
+Valencia - Cska : 78 - 67
+Valencia - Maccabi : 71 - 64
+Valencia - Panathinaikos : 71 - 81
+Valencia - Crvena : 66 - 56
+Valencia - Fenerbahce : 59 - 52
+Valencia - Kirolbet_Baskonia_Vitoria_Gasteiz : 85 - 89
+Valencia - Anadolu_Efes : 81 - 60
+Valencia - Barcelona_Lassa : 52 - 57
+Valencia - Khimki : 72 - 56
+Valencia - Bayern : 85 - 71
+Valencia - Olympiacos : 72 - 57
+Valencia - Zalgiris_Kaunas : 58 - 93
+Valencia - Alba : 77 - 79
+Valencia - Armani_Exchange_Olimpia : 74 - 68
+Valencia - Real_Madrid : 77 - 62
+Valencia - Zenit : 90 - 78
+Valencia - Asvel_Villeurbanne : 63 - 78
+
+Bayern - Cska : 89 - 56
+Bayern - Maccabi : 87 - 69
+Bayern - Panathinaikos : 78 - 70
+Bayern - Crvena : 53 - 79
+Bayern - Fenerbahce : 68 - 67
+Bayern - Kirolbet_Baskonia_Vitoria_Gasteiz : 77 - 64
+Bayern - Anadolu_Efes : 89 - 62
+Bayern - Barcelona_Lassa : 67 - 78
+Bayern - Khimki : 88 - 61
+Bayern - Valencia : 59 - 56
+Bayern - Olympiacos : 84 - 86
+Bayern - Zalgiris_Kaunas : 60 - 84
+Bayern - Alba : 80 - 52
+Bayern - Armani_Exchange_Olimpia : 77 - 60
+Bayern - Real_Madrid : 62 - 63
+Bayern - Zenit : 88 - 55
+Bayern - Asvel_Villeurbanne : 76 - 52
+
+Olympiacos - Cska : 56 - 82
+Olympiacos - Maccabi : 74 - 54
+Olympiacos - Panathinaikos : 58 - 59
+Olympiacos - Crvena : 95 - 59
+Olympiacos - Fenerbahce : 88 - 76
+Olympiacos - Kirolbet_Baskonia_Vitoria_Gasteiz : 86 - 59
+Olympiacos - Anadolu_Efes : 76 - 68
+Olympiacos - Barcelona_Lassa : 73 - 70
+Olympiacos - Khimki : 95 - 55
+Olympiacos - Valencia : 59 - 70
+Olympiacos - Bayern : 79 - 59
+Olympiacos - Zalgiris_Kaunas : 84 - 73
+Olympiacos - Alba : 55 - 54
+Olympiacos - Armani_Exchange_Olimpia : 89 - 80
+Olympiacos - Real_Madrid : 58 - 67
+Olympiacos - Zenit : 87 - 79
+Olympiacos - Asvel_Villeurbanne : 93 - 50
+
+Zalgiris_Kaunas - Cska : 59 - 75
+Zalgiris_Kaunas - Maccabi : 71 - 79
+Zalgiris_Kaunas - Panathinaikos : 60 - 70
+Zalgiris_Kaunas - Crvena : 73 - 68
+Zalgiris_Kaunas - Fenerbahce : 53 - 51
+Zalgiris_Kaunas - Kirolbet_Baskonia_Vitoria_Gasteiz : 62 - 59
+Zalgiris_Kaunas - Anadolu_Efes : 95 - 74
+Zalgiris_Kaunas - Barcelona_Lassa : 80 - 55
+Zalgiris_Kaunas - Khimki : 62 - 52
+Zalgiris_Kaunas - Valencia : 57 - 67
+Zalgiris_Kaunas - Bayern : 87 - 51
+Zalgiris_Kaunas - Olympiacos : 92 - 56
+Zalgiris_Kaunas - Alba : 82 - 67
+Zalgiris_Kaunas - Armani_Exchange_Olimpia : 62 - 89
+Zalgiris_Kaunas - Real_Madrid : 85 - 62
+Zalgiris_Kaunas - Zenit : 59 - 74
+Zalgiris_Kaunas - Asvel_Villeurbanne : 53 - 77
+
+Alba - Cska : 92 - 71
+Alba - Maccabi : 86 - 81
+Alba - Panathinaikos : 82 - 67
+Alba - Crvena : 94 - 62
+Alba - Fenerbahce : 98 - 56
+Alba - Kirolbet_Baskonia_Vitoria_Gasteiz : 76 - 64
+Alba - Anadolu_Efes : 77 - 53
+Alba - Barcelona_Lassa : 59 - 50
+Alba - Khimki : 78 - 71
+Alba - Valencia : 93 - 85
+Alba - Bayern : 70 - 56
+Alba - Olympiacos : 82 - 94
+Alba - Zalgiris_Kaunas : 82 - 54
+Alba - Armani_Exchange_Olimpia : 90 - 91
+Alba - Real_Madrid : 98 - 67
+Alba - Zenit : 63 - 64
+Alba - Asvel_Villeurbanne : 65 - 73
+
+Armani_Exchange_Olimpia - Cska : 54 - 60
+Armani_Exchange_Olimpia - Maccabi : 90 - 68
+Armani_Exchange_Olimpia - Panathinaikos : 96 - 50
+Armani_Exchange_Olimpia - Crvena : 63 - 68
+Armani_Exchange_Olimpia - Fenerbahce : 54 - 56
+Armani_Exchange_Olimpia - Kirolbet_Baskonia_Vitoria_Gasteiz : 60 - 78
+Armani_Exchange_Olimpia - Anadolu_Efes : 84 - 86
+Armani_Exchange_Olimpia - Barcelona_Lassa : 71 - 78
+Armani_Exchange_Olimpia - Khimki : 69 - 52
+Armani_Exchange_Olimpia - Valencia : 87 - 90
+Armani_Exchange_Olimpia - Bayern : 56 - 59
+Armani_Exchange_Olimpia - Olympiacos : 56 - 62
+Armani_Exchange_Olimpia - Zalgiris_Kaunas : 70 - 55
+Armani_Exchange_Olimpia - Alba : 99 - 63
+Armani_Exchange_Olimpia - Real_Madrid : 99 - 69
+Armani_Exchange_Olimpia - Zenit : 92 - 63
+Armani_Exchange_Olimpia - Asvel_Villeurbanne : 83 - 58
+
+Real_Madrid - Cska : 59 - 50
+Real_Madrid - Maccabi : 80 - 66
+Real_Madrid - Panathinaikos : 87 - 78
+Real_Madrid - Crvena : 61 - 74
+Real_Madrid - Fenerbahce : 73 - 68
+Real_Madrid - Kirolbet_Baskonia_Vitoria_Gasteiz : 67 - 77
+Real_Madrid - Anadolu_Efes : 65 - 95
+Real_Madrid - Barcelona_Lassa : 73 - 61
+Real_Madrid - Khimki : 75 - 67
+Real_Madrid - Valencia : 87 - 56
+Real_Madrid - Bayern : 67 - 75
+Real_Madrid - Olympiacos : 80 - 51
+Real_Madrid - Zalgiris_Kaunas : 54 - 78
+Real_Madrid - Alba : 53 - 88
+Real_Madrid - Armani_Exchange_Olimpia : 69 - 55
+Real_Madrid - Zenit : 78 - 56
+Real_Madrid - Asvel_Villeurbanne : 62 - 58
+
+Zenit - Cska : 84 - 56
+Zenit - Maccabi : 69 - 88
+Zenit - Panathinaikos : 80 - 63
+Zenit - Crvena : 63 - 81
+Zenit - Fenerbahce : 84 - 51
+Zenit - Kirolbet_Baskonia_Vitoria_Gasteiz : 85 - 75
+Zenit - Anadolu_Efes : 59 - 75
+Zenit - Barcelona_Lassa : 80 - 62
+Zenit - Khimki : 65 - 63
+Zenit - Valencia : 61 - 84
+Zenit - Bayern : 90 - 64
+Zenit - Olympiacos : 87 - 55
+Zenit - Zalgiris_Kaunas : 65 - 56
+Zenit - Alba : 86 - 79
+Zenit - Armani_Exchange_Olimpia : 67 - 75
+Zenit - Real_Madrid : 63 - 81
+Zenit - Asvel_Villeurbanne : 60 - 69
+
+Asvel_Villeurbanne - Cska : 78 - 64
+Asvel_Villeurbanne - Maccabi : 64 - 55
+Asvel_Villeurbanne - Panathinaikos : 73 - 87
+Asvel_Villeurbanne - Crvena : 75 - 82
+Asvel_Villeurbanne - Fenerbahce : 69 - 70
+Asvel_Villeurbanne - Kirolbet_Baskonia_Vitoria_Gasteiz : 56 - 57
+Asvel_Villeurbanne - Anadolu_Efes : 73 - 75
+Asvel_Villeurbanne - Barcelona_Lassa : 73 - 65
+Asvel_Villeurbanne - Khimki : 63 - 76
+Asvel_Villeurbanne - Valencia : 68 - 78
+Asvel_Villeurbanne - Bayern : 79 - 81
+Asvel_Villeurbanne - Olympiacos : 73 - 82
+Asvel_Villeurbanne - Zalgiris_Kaunas : 65 - 82
+Asvel_Villeurbanne - Alba : 63 - 89
+Asvel_Villeurbanne - Armani_Exchange_Olimpia : 68 - 62
+Asvel_Villeurbanne - Real_Madrid : 60 - 86
+Asvel_Villeurbanne - Zenit : 60 - 58
+
+PHASE 1 RULES:
+All teams have home and away matches.
+Home teams have a bonus base on the seats of the stadium.
+If faced teams from the same country there is no bonus.
+WIN = 2 POINTS - LOSE = 1 POINT.
+The first eight teams qualifies to the phase 2.
+In case of a TIE the team with highest point difference qualifies.
+
+
+QUALIFIED TO FHASE 2:
+
+Cska
+Maccabi
+Panathinaikos
+Crvena
+Fenerbahce
+Kirolbet_Baskonia_Vitoria_Gasteiz
+Anadolu_Efes
+Barcelona_Lassa
+
+
+========== FHASE 2 ==========
+
+FHASE 2 RESULTS:
+
+Cska-Barcelona_Lassa : 66-85
+Maccabi-Anadolu_Efes : 89-90
+Panathinaikos-Kirolbet_Baskonia_Vitoria_Gasteiz : 68-67
+Crvena-Fenerbahce : 59-62
+
+PHASE 2 RULES:
+Knock out games.
+Opponets are 1st-8th,2nd-7th,3rd-6th,4th-5th.
+Home teams are the teams with the highest position
+Home teams have a bonus base on the seats of their stadium.
+If faced teams from the same country there is no bonus.
+Winner teams qualified to final 4.
+
+
+QUALIFIED TO FINAL 4 :
+
+Barcelona_Lassa
+Anadolu_Efes
+Panathinaikos
+Fenerbahce
+
+
+========== FINAL 4 ==========
+
+FINAL 4 RESULTS:
+
+Barcelona_Lassa - Fenerbahce : 81 - 63
+Anadolu_Efes - Panathinaikos : 73 - 91
+
+FINAL 4 RULES:
+Knock out games.
+Opponets are 1st-8th vs 4th-5th, 2nd-7th vs 3rd-6th.
+Games are in neutral stadiums.
+Winner teams qualified to final.
+Defeated teams qualified to mini final.
+Final and mini final are knock out games in neutral stadiums.
+
+
+QUALIFIED TO MINI FINAL:
+
+Fenerbahce
+Anadolu_Efes
+
+
+QUALIFIED TO FINAL:
+
+Barcelona_Lassa
+Panathinaikos
+
+
+========== MINI FINAL ==========
+
+MINI FINAL RESULTS:
+
+Fenerbahce - Anadolu_Efes : 97 - 58
+
+
+========== MINI FINAL WINNER ==========
+
+***Fenerbahce***
+
+========== FINAL ==========
+
+FINAL RESULTS:
+
+Barcelona_Lassa - Panathinaikos : 83 - 81
+
+
+========== FINAL WINNER ==========
+
+***Barcelona_Lassa***
